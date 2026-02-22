@@ -31,7 +31,7 @@
 
 <p align="center">
   <strong>Languages & Tools</strong><br><br>
-  <img src="https://skillicons.dev/icons?i=c,python,linux,git,bash,gcc,vim,docker" height="70"/>
+  <img src="https://skillicons.dev/icons?i=c,python,linux,git,bash,gcc,vim" height="70"/>
 </p>
 
 ### 💻 Core Competencies
@@ -42,15 +42,6 @@
 | 🏗️ **Architecture** | Design Patterns, Clean Code, System Design |
 | 🐧 **Linux** | Kernel Concepts, System Calls, Process Management |
 | 🚀 **Performance** | Optimization, Profiling, Benchmarking |
-
----
-
-## 📈 GITHUB STATISTICS
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Gx-Nasr&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gx-Nasr&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-</p>
 
 ---
 
@@ -119,9 +110,7 @@ Phase 3: Innovation 🚀
 <p align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-@Gx--Nasr-blue?style=for-the-badge&logo=github)](https://github.com/Gx-Nasr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your@email.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nasr-eddine-eladaoui-348334355/)
 </p>
 
 ---
