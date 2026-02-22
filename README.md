@@ -31,7 +31,7 @@
 
 <p align="center">
   <strong>Languages & Tools</strong><br><br>
-  <img src="https://skillicons.dev/icons?i=c,python,linux,git,bash,gcc,vim" height="70"/>
+  <img src="https://skillicons.dev/icons?i=c,python,linux,git,bash,vim" height="70"/>
 </p>
 
 ### 💻 Core Competencies
