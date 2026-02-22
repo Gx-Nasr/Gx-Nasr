@@ -1,16 +1,67 @@
-## Hi there 👋
+<p align="center">
 
-<!--
-**Gx-Nasr/Gx-Nasr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+███╗   ██╗ █████╗ ███████╗██████╗ 
+████╗  ██║██╔══██╗██╔════╝██╔══██╗
+██╔██╗ ██║███████║███████╗██████╔╝
+██║╚██╗██║██╔══██║╚════██║██╔══██╗
+██║ ╚████║██║  ██║███████║██║  ██║
+╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+```
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">C • Python • Linux • Low-Level Programming</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=System+Programming;Memory+Management;Clean+Architecture;Terminal+Driven+Development" />
+</p>
+
+---
+
+## 🧠 PROFILE
+
+<p align="center">
+Focused on structured software.<br>
+Low-level logic. Clean architecture.<br>
+Performance over noise.
+</p>
+
+---
+
+## ⚙️ STACK
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,linux,git,bash" height="65"/>
+</p>
+
+---
+
+## 📊 SYSTEM ACTIVITY
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Flow
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00ff00&style=flat-square"/>
+</p>
+
+<p align="center">
+  <i>"Stay low-level. Stay disciplined."</i>
+</p>
+
