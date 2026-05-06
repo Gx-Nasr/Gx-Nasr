@@ -19,4 +19,4 @@ Hello! I'm a student at **1337/42**, learning by building real projects and prac
 ## Why this repo
 This workspace is my training ground: code I wrote while studying at 1337/42, with projects and exercises that show my skills and progress.
 
-![Cute cat](cat.git)
+![cat](./cat.gif)
