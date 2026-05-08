@@ -9,7 +9,6 @@ Hello! I'm a student at **1337/42**, learning by building real projects and prac
 - I learn by doing: school projects, small tools, and challenges
 - I practice memory management, data structures, and performance
 
-## What I know
 ## Languages & Tools
 
 <p align="left">
