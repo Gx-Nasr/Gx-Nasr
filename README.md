@@ -1,4 +1,4 @@
-# Nasr — 1337/42 Student
+# Nasr
 
 ![cat](./cat.gif)
 
