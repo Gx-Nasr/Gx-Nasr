@@ -31,7 +31,3 @@ Hello! I'm a software engineer student, learning by building real projects and p
 - Writing clear and efficient C code
 - Learning how systems work from the inside
 - Building small programs and debugging them well
-
-## Why this repo
-This workspace is my training ground: code I wrote while studying at 1337/42, with projects and exercises that show my skills and progress.
-
