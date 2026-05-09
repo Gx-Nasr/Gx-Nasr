@@ -2,12 +2,12 @@
 
 ![cat](./cat.gif)
 
-Hello! I'm a student at **1337/42**, learning by building real projects and practicing C, Python, and low-level programming.
+Hello! I'm a software engineer student, learning by building real projects and practicing C, Python, and low-level programming.
 
 ## About me
-- 1337/42 student working on system programming and algorithms
-- I learn by doing: school projects, small tools, and challenges
-- I practice memory management, data structures, and performance
+- Self-taught developer focused on programming and problem solving
+- I enjoy building small projects, experimenting with new technologies, and improving my skills through practice
+- Interested in software development, optimization, and learning how systems work behind the scenes
 
 ## Languages & Tools
 
@@ -24,9 +24,8 @@ Hello! I'm a student at **1337/42**, learning by building real projects and prac
 
 - Git
 - Makefile
-- GCC
 - Valgrind
-- GDB
+- Vs Code
 
 ## My focus
 - Writing clear and efficient C code
