@@ -1,6 +1,6 @@
 # Nasr
 
-![cat](./cat.gif)
+![sharingan glitch](./akatsuki-magic.gif)
 
 Hello! I'm a software engineer student, learning by building real projects and practicing C, Python, and low-level programming.
 
