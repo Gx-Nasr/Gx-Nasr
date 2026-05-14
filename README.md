@@ -17,13 +17,6 @@ Hello! I'm a software engineer student, learning by building real projects and p
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-## Tools I Use
-
-- Git
-- Makefile
-- Valgrind
-- Vs Code
-
 ## My focus
 - Writing clear and efficient C code
 - Learning how systems work from the inside
