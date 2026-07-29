@@ -99,9 +99,7 @@ public:
 
 <p align="center">
 
-> ⚠️ Requires the Snake GitHub Action to be configured.
-
-<img src="https://raw.githubusercontent.com/Gx-Nasr/Gx-Nasr/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+<img src="https://raw.githubusercontent.com/Gx-Nasr/Gx-Nasr/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 
 </p>
 
@@ -111,7 +109,7 @@ public:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gx-Nasr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gx-Nasr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
 <img height="170" src="https://streak-stats.demolab.com?user=Gx-Nasr&theme=tokyonight&hide_border=true"/>
 
@@ -119,7 +117,7 @@ public:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gx-Nasr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gx-Nasr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </p>
 
@@ -129,7 +127,7 @@ public:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Gx-Nasr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Gx-Nasr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
 
 </p>
 
