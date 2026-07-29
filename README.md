@@ -84,21 +84,21 @@ public:
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Gx-Nasr/Gx-Nasr/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-
-</p>
-
----
-
 # 📋 Profile Summary
 
 <p align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gx-Nasr&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Gx-Nasr/Gx-Nasr/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 
 </p>
 
