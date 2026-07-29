@@ -99,7 +99,9 @@ public:
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Gx-Nasr/Gx-Nasr/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+> ⚠️ Requires the Snake GitHub Action to be configured.
+
+<img src="https://raw.githubusercontent.com/Gx-Nasr/Gx-Nasr/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 
 </p>
 
@@ -109,15 +111,15 @@ public:
 
 <p align="center">
 
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=Gx-Nasr&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gx-Nasr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Gx-Nasr&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=Gx-Nasr&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gx-Nasr&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gx-Nasr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </p>
 
@@ -127,7 +129,7 @@ public:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Gx-Nasr&theme=tokyonight&margin-w=15&margin-h=15&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Gx-Nasr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
 
 </p>
 
