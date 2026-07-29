@@ -2,10 +2,29 @@
 
 # 👋 Hi, I'm Nasr
 
-### 💻 Software Engineer | C | Python | Linux | Problem Solver
+### 💻 Software Engineering Student @ 42 Network / 1337
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Software+Engineering+Student;C+%7C+C%2B%2B+%7C+JavaScript;Linux+Enthusiast;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=7AA2F7&center=true&vCenter=true&width=700&lines=Code.+Learn.+Build.+Repeat.;Software+Engineering+Student;Algorithms+Enthusiast;C+%7C+Python+Developer;Learning+Node.js+%26+Docker;Ubuntu+Linux+User" />
+</p>
+
+<p>
+  <i>"Code. Learn. Build. Repeat."</i>
+</p>
+
+<p>
+  <a href="https://github.com/Gx-Nasr">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://linkedin.com/in/nasr-eddine-eladaoui-348334355">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://gx-nasr.github.io/Gx-Web/">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/Gx-Nasr/">
+    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
 </p>
 
 </div>
@@ -14,78 +33,91 @@
 
 # 🚀 About Me
 
-- 🎓 Software Engineering Student
-- 💻 Passionate about Systems Programming
-- 🌱 Currently learning Algorithms & Concurrency
-- ❤️ Love Open Source
-- 🐧 Linux User
-- ⚡ I enjoy building beautiful and efficient software.
+```cpp
+class Nasr {
+public:
+    string role = "Software Engineering Student";
+    string school = "42 Network / 1337";
+    string os = "Ubuntu Linux";
 
----
+    vector<string> languages = {
+        "C",
+        "Python",
+        "Node.js (Learning)"
+    };
 
-# 🌐 Connect with Me
+    vector<string> interests = {
+        "Algorithms",
+        "Systems Programming",
+        "Problem Solving",
+        "Open Source"
+    };
 
-<p align="center">
-
-<a href="https://github.com/Gx-Nasr">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/Gx-Nasr">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:you@example.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
+    vector<string> currently_learning = {
+        "Node.js",
+        "Docker"
+    };
+};
+```
 
 ---
 
 # ⚒️ Tech Stack
 
-### Languages
+### 👨‍💻 Languages
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,bash"/>
+<img src="https://skillicons.dev/icons?i=c,python,javascript"/>
 
 </p>
 
-### Tools
+### 🛠️ Tools
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vim"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker"/>
+
+</p>
+
+> 🐳 Currently learning Docker.
+
+---
+
+# 🌟 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🚀 Codexion | Concurrency simulation based on thread synchronization and scheduling. |
+| ✈️ Fly-in | Pathfinding and drone delivery simulation project. |
+| 🔄 Push Swap | Efficient sorting algorithm with optimized operations. |
+| 🔐 RunesCrypt | Encryption project *(Work in Progress).* |
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Gx-Nasr/Gx-Nasr/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 
 </p>
 
 ---
 
-# 🐍 My Contributions
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Gx-Nasr/Gx-Nasr/output/github-contribution-grid-snake.svg"/>
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=Gx-Nasr&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=Gx-Nasr&show_icons=true&theme=tokyonight&border_radius=12"/>
-
-<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Gx-Nasr&theme=tokyonight&border_radius=12"/>
+<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Gx-Nasr&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gx-Nasr&layout=compact&theme=tokyonight&border_radius=12"/>
+<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gx-Nasr&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -95,23 +127,23 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Gx-Nasr&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Gx-Nasr&theme=tokyonight&margin-w=15&margin-h=15&row=1&column=6"/>
 
 </p>
 
 ---
 
-# 📈 Activity Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gx-Nasr&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gx-Nasr&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 ---
 
-# ⚡ GitHub Metrics
+# 📋 Profile Summary
 
 <p align="center">
 
@@ -121,30 +153,32 @@
 
 ---
 
-# 💪 Codewars
+# 🧩 LeetCode
 
 <p align="center">
 
-<img src="https://www.codewars.com/users/Gx-Nasr/badges/large"/>
+<a href="https://leetcode.com/u/Gx-Nasr/">
+<img src="https://leetcard.jacoblin.cool/Gx-Nasr?theme=dark&font=Fira%20Code&ext=contest"/>
+</a>
 
 </p>
 
 ---
 
-# ☕ Support
+# 🎯 Current Goals
 
-<p align="center">
-
-If you like my projects, don't forget to ⭐ them!
-
-</p>
+- 📚 Master Algorithms & Data Structures.
+- ⚙️ Improve Systems Programming skills.
+- 🐳 Become proficient with Docker.
+- 🌐 Build modern Full-Stack applications.
+- 🚀 Contribute to Open Source projects.
 
 ---
 
 <div align="center">
 
-### Thanks for visiting ❤️
+### ⭐ Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=Gx-Nasr&color=brightgreen&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Gx-Nasr&style=for-the-badge&color=7AA2F7"/>
 
 </div>
