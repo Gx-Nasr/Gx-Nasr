@@ -68,7 +68,7 @@ public:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,python,javascript"/>
+<img src="https://skillicons.dev/icons?i=c,python"/>
 
 </p>
 
@@ -76,7 +76,7 @@ public:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
 
 </p>
 
