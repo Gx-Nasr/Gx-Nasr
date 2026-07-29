@@ -94,7 +94,7 @@ public:
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 Contribution
 
 <p align="center">
 
