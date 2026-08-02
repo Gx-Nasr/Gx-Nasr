@@ -55,7 +55,8 @@ public:
 
     vector<string> currently_learning = {
         "Node.js",
-        "Docker"
+        "Docker",
+        "FastAPI"
     };
 };
 ```
