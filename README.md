@@ -85,16 +85,6 @@ public:
 
 ---
 
-# 📋 Profile Summary
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gx-Nasr&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🐍 Contribution
 
 <p align="center">
