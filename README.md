@@ -33,32 +33,28 @@
 
 # 🚀 About Me
 
-```cpp
-class Nasr {
-public:
-    string role = "Software Engineering Student";
-    string school = "42 Network / 1337";
-    string os = "Ubuntu Linux";
-
-    vector<string> languages = {
-        "C",
-        "Python",
-        "Node.js (Learning)"
-    };
-
-    vector<string> interests = {
-        "Algorithms",
-        "Systems Programming",
-        "Problem Solving",
-        "Open Source"
-    };
-
-    vector<string> currently_learning = {
-        "Node.js",
-        "Docker",
-        "FastAPI"
-    };
-};
+```
+{
+  "role": "Software Engineering Student",
+  "school": "42 Network / 1337",
+  "os": "Ubuntu Linux",
+  "languages": [
+    "C",
+    "Python",
+    "Node.js (Learning)"
+  ],
+  "interests": [
+    "Algorithms",
+    "Systems Programming",
+    "Problem Solving",
+    "Open Source"
+  ],
+  "currently_learning": [
+    "Node.js",
+    "Docker",
+    "FastAPI"
+  ]
+}
 ```
 
 ---
