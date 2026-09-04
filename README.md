@@ -56,6 +56,10 @@
   ]
 }
 ```
+---
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/2f03d6c1-85bb-4672-8e22-f60b2ba905eb/thumbnail" >
+</p>
 
 ---
 
