@@ -51,7 +51,6 @@
   ],
   "currently_learning": [
     "Node.js",
-    "Docker",
     "FastAPI"
   ]
 }
@@ -75,8 +74,6 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
 
 </p>
-
-> 🐳 Currently learning Docker.
 
 ---
 
